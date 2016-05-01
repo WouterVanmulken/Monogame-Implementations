@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3D implementation", "3D implementation\3D implementation.csproj", "{910B40D3-A00F-4145-8647-3DFAB7DEEBE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C6D2DDA-9619-45E9-B10C-8421C1E4D00F}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910B40D3-A00F-4145-8647-3DFAB7DEEBE5}.Debug|x86.ActiveCfg = Debug|x86
+		{910B40D3-A00F-4145-8647-3DFAB7DEEBE5}.Debug|x86.Build.0 = Debug|x86
+		{910B40D3-A00F-4145-8647-3DFAB7DEEBE5}.Release|x86.ActiveCfg = Release|x86
+		{910B40D3-A00F-4145-8647-3DFAB7DEEBE5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
